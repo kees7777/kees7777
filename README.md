@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kees7777
+- 👋 Hi, I’m Kees7777
 - 👀 I’m interested in C++ , Python , PIC  , AVR , ESP , MQTT , Raspberry Pi , and electronics.
 - 🌱 I’m currently learning Micropython
 - 💞️ I’m looking to collaborate on 
