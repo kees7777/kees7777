@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kees7777
 - 👀 I’m interested in C++ , Python , PIC  , AVR , ESP , MQTT , Raspberry Pi , and electronics.
-- 🌱 I’m currently learning Micropython
 - 📫 How to reach me kees7777@gmail.com
 -    my goal is programming ESP with OTA and configuring SSID and PW via wifi and connecting via MQTT. I can find pieces of code but no complete code. so , or I have to combine different libraries , or make my own.
+- I am a grandpa now.
